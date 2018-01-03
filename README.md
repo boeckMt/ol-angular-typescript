@@ -1,10 +1,9 @@
-# ol-ng-dwd-Radar
+# ol-angular-typescript
 
-[Angular](https://angular.io/) [OpenLayers](http://openlayers.org/) App which shows Radar data from [DWD](https://www.dwd.de/DE/wetter/warnungen_aktuell/objekt_einbindung/einbindung_karten_geowebservice.html)
-
+[Angular 5](https://angular.io/) [OpenLayers 4](http://openlayers.org/) App
 ## Getting Started
 ```
-git clone https://github.com/boeckMt/ol-ng-dwd-Radar.git
+git clone https://github.com/boeckMt/ol-angular-typescript.git
 cd ol-ng-dwd-Radar
 npm i
 npm start
